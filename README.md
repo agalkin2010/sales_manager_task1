@@ -1,3 +1,12 @@
+#Класс SalesManadger
+
+##описание класса:
+Класс управляет массивом int.
+Метод Max выдает максимальное значение из массива
+
+
+Код класса:
+```java
 public class SalesManager {
 
     protected int[] sales;
@@ -18,3 +27,4 @@ public class SalesManager {
     }
 
 }
+```
